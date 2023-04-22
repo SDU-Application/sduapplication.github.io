@@ -1,13 +1,13 @@
-<p align="left">
+<p align="center">
   <a href="https://sdu-application.github.io/sduapplication.github.io/">
-    <img alt="docsify" src="./docs/src/_media/SDU_University_Logo.png" height="150">
+    <img alt="docsify" src="./docs/src/_media/SDU_University_Logo.png" height="200">
   </a>
 </p>
 
-<p align="left">
+<!-- <p align="left">
   山东大学飞跃手册
 </p>
-
+ -->
 [![GitHub watchers](https://img.shields.io/github/watchers/SDU-Application/sduapplication.github.io?style=social)](https://github.com/SDU-Application/sduapplication.github.io/subscription)
 [![GitHub forks](https://img.shields.io/github/forks/SDU-Application/sduapplication.github.io?style=social)](https://github.com/SDU-Application/sduapplication.github.io/fork)
 [![GitHub Repo stars](https://img.shields.io/github/stars/SDU-Application/sduapplication.github.io?style=social)](https://github.com/SDU-Application/sduapplication.github.io)
