@@ -8,9 +8,14 @@
   山东大学飞跃手册
 </p>
 
-<p align="center">
-  <a href="https://www.npmjs.com/package/docsify"><img alt="npm" src="https://img.shields.io/npm/v/docsify.svg"></a>
-</p>
+[![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa] 
+[![GitHub watchers](https://img.shields.io/github/watchers/SDU-Application/sduapplication.github.io?style=social)](https://github.com/SDU-Application/sduapplication.github.io/subscription)
+[![GitHub forks](https://img.shields.io/github/forks/SDU-Application/sduapplication.github.io?style=social)](https://github.com/SDU-Application/sduapplication.github.io/fork)
+[![GitHub Repo stars](https://img.shields.io/github/stars/SDU-Application/sduapplication.github.io?style=social)](https://github.com/SDU-Application/sduapplication.github.io)
+[![GitHub followers](https://img.shields.io/github/followers/J1aM1ng?style=social)](https://github.com/J1aM1ng)
+
+
+### [sduapplication.github.io](https://sdu-application.github.io/sduapplication.github.io/#/)
 
 # 欢迎来到山东大学飞跃手册
 
