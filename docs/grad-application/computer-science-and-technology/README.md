@@ -2,7 +2,7 @@
 
 #### PhD Programs:
 
-  - [16级-张兆旭 University of Southern California (南科大样本)](/grad-application/computer-science-and-technology/%5BUS%5D-16-zhangzhaoxu.md)
+  - [16级-张兆旭 University of Southern California (南科大样本)](/grad-application/computer-science-and-technology/[US]-16-zhangzhaoxu.md)
 
 #### Master Programs:
 
