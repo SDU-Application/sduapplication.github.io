@@ -8,15 +8,18 @@
   山东大学飞跃手册
 </p>
  -->
+
+
+
+
+# 欢迎来到山东大学飞跃手册
+
 [![GitHub watchers](https://img.shields.io/github/watchers/SDU-Application/sduapplication.github.io?style=social)](https://github.com/SDU-Application/sduapplication.github.io/subscription)
 [![GitHub forks](https://img.shields.io/github/forks/SDU-Application/sduapplication.github.io?style=social)](https://github.com/SDU-Application/sduapplication.github.io/fork)
 [![GitHub Repo stars](https://img.shields.io/github/stars/SDU-Application/sduapplication.github.io?style=social)](https://github.com/SDU-Application/sduapplication.github.io)
 [![GitHub followers](https://img.shields.io/github/followers/J1aM1ng?style=social)](https://github.com/J1aM1ng)
 
-
 ### [sduapplication.github.io](https://sdu-application.github.io/sduapplication.github.io/#/)
-
-# 欢迎来到山东大学飞跃手册
 
 本站内容开源协同创作，期待你[贡献内容]([https://opencs.app/contribute/](https://sdu-application.github.io/sduapplication.github.io/#/%E5%A6%82%E4%BD%95%E8%BF%9B%E8%A1%8C%E7%BB%8F%E9%AA%8C%E5%88%86%E4%BA%AB))。如果你喜欢这个网站，请点亮 :star:Star 支持我们！
 
