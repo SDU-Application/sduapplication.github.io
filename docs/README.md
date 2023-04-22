@@ -50,5 +50,5 @@
 * 美国本土申请结果汇报论坛 https://www.thegradcafe.com/
 * Grantome 美国教授科研经费查询 https://grantome.com/search
 * NIH 美国教授科研经费查询 https://report.nih.gov/ 
-* [山东大学 2016 飞跃手册（主要为 ECE 申请者)](./external-material/SDU-2016-wiki.pdf)
+* [山东大学 2016 飞跃手册](./external-material/SDU-2016-wiki.md)
 
