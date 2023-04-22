@@ -8,7 +8,6 @@
   山东大学飞跃手册
 </p>
 
-[![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa] 
 [![GitHub watchers](https://img.shields.io/github/watchers/SDU-Application/sduapplication.github.io?style=social)](https://github.com/SDU-Application/sduapplication.github.io/subscription)
 [![GitHub forks](https://img.shields.io/github/forks/SDU-Application/sduapplication.github.io?style=social)](https://github.com/SDU-Application/sduapplication.github.io/fork)
 [![GitHub Repo stars](https://img.shields.io/github/stars/SDU-Application/sduapplication.github.io?style=social)](https://github.com/SDU-Application/sduapplication.github.io)
