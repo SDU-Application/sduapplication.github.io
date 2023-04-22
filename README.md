@@ -12,7 +12,13 @@
   <a href="https://www.npmjs.com/package/docsify"><img alt="npm" src="https://img.shields.io/npm/v/docsify.svg"></a>
 </p>
 
-# 山东大学飞跃手册
+# 欢迎来到山东大学飞跃手册
+
+本站内容开源协同创作，期待你[贡献内容]([https://opencs.app/contribute/](https://sdu-application.github.io/sduapplication.github.io/#/%E5%A6%82%E4%BD%95%E8%BF%9B%E8%A1%8C%E7%BB%8F%E9%AA%8C%E5%88%86%E4%BA%AB))。如果你喜欢这个网站，请点亮 :star:Star 支持我们！
+
+欢迎加入社区讨论：
+
+- QQ群：727447960
 
 本手册希望持续收录山东大学各院系同学不同出路的经验分享，本手册网页模板参考了<a href="https://github.com/SUSTech-Application/2019-Fall">南方科技大学飞跃手册</a>，感谢南科大同学为打造初版的付出！**本项目早期会暂留一部分南科大同学的投稿作为样本以供参考，一段时间后会主动移除**。
 
