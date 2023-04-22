@@ -1,10 +1,10 @@
-<p align="center">
+<p align="left">
   <a href="https://sdu-application.github.io/sduapplication.github.io/">
     <img alt="docsify" src="./docs/src/_media/SDU_University_Logo.png" height="150">
   </a>
 </p>
 
-<p align="center">
+<p align="left">
   山东大学飞跃手册
 </p>
 
