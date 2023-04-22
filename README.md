@@ -1,5 +1,7 @@
 <p align="center">
+  <a href="https://sdu-application.github.io/sduapplication.github.io/">
     <img alt="docsify" src="./docs/src/_media/SDU_University_Logo.png" height="150">
+  </a>
 </p>
 
 <p align="center">
