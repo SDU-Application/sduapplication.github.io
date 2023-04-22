@@ -2,7 +2,7 @@
 
 #### PhD Programs:
 
- - [19级-孔海洋 The Hong Kong Polytechnic University](./intelligent-engineering-and-management/%5BHK%5D-19-konghaiyang.md)
+ - [19级-孔海洋 The Hong Kong Polytechnic University](grad-application/management/intelligent-engineering-and-management/[HK]-19-konghaiyang.md)
 
 #### Master Programs:
 To be continued.
