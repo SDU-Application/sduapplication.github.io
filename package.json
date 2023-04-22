@@ -1,7 +1,8 @@
 {
   "name": "sdu-application",
   "scripts": {
-    "serve": "docsify serve docs"
+    "serve": "docsify serve docs",
+    "deploy": "vercel"
   },
   "dependencies": {
     "docsify-cli": "^4.4.4"
