@@ -37,8 +37,8 @@
 
 ## 贡献者
 
-<a href="https://github.com/SDU-Application/SDU-Application/graphs/contributors">
-  <br><img src="https://contributors-img.web.app/image?repo=SDU-Application/SDU-Application" />
+<a href="https://github.com/SDU-Application/sduapplication.github.io/graphs/contributors">
+  <br><img src="https://contributors-img.web.app/image?repo=SDU-Application/sduapplication.github.io" />
 </a>
 
 ## 友情链接
