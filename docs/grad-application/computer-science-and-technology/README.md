@@ -6,7 +6,7 @@
 
 #### Master Programs:
 
-  - [19级-Levi University of Toronto](grad-application/computer-science-and-technology/[US]-19-Levi.md)
+  - [19级-Levi University of Toronto](grad-application/computer-science-and-technology/[CA]-19-Levi.md)
 
 ##### 联培：
 
