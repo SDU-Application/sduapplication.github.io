@@ -1,6 +1,8 @@
 - 个人申请总结
 
   - [计算机科学与技术学院](grad-application/computer-science-and-technology/README.md)
+
+  - [管理学院](grad-application/management/README.md)
   
   - [化学学院](grad-application/chemistry/README.md)
 
@@ -12,7 +14,7 @@
 
   - [数学学院](grad-application/math/README.md)
 
-  - [材料科学与工程系](grad-application/materials-science-and-engineering/README.md)
+  - [材料科学与工程学院](grad-application/materials-science-and-engineering/README.md)
 
   - [环境科学与工程学院](grad-application/environmental-science-and-engineering/README.md)
 

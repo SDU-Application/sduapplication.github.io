@@ -1,8 +1,8 @@
-## 地球与空间科学
+## 管理学院
 
 #### PhD Programs:
 
-To be continued.
+ - [19级-孔海洋 The Hong Kong Polytechnic University](./Intelligent%20Engineering%20and%20Management/%5BHK%5D-19-konghaiyang.md)
 
 #### Master Programs:
 
