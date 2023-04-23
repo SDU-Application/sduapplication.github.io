@@ -46,6 +46,7 @@
 * Open CS Application: https://opencs.app/
 * OpenCS 申请群\[QQ群群号\]: 466094878
 * OpenCS 加拿大申请群\[QQ群群号\]: 608968969
+* 寄托天下 - 申请论坛 https://www.gter.net/
 * 商科申请论坛 https://www.chasedream.com/
 * 一亩三分地--北美申请论坛 http://www.1point3acres.com/
 * 美国本土申请结果汇报论坛 https://www.thegradcafe.com/
