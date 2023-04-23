@@ -1,9 +1,22 @@
 # 山东大学飞跃手册
 
+[![GitHub watchers](https://img.shields.io/github/watchers/SDU-Application/sduapplication.github.io?style=social)](https://github.com/SDU-Application/sduapplication.github.io/subscription)
+[![GitHub forks](https://img.shields.io/github/forks/SDU-Application/sduapplication.github.io?style=social)](https://github.com/SDU-Application/sduapplication.github.io/fork)
+[![GitHub Repo stars](https://img.shields.io/github/stars/SDU-Application/sduapplication.github.io?style=social)](https://github.com/SDU-Application/sduapplication.github.io)
+[![GitHub followers](https://img.shields.io/github/followers/J1aM1ng?style=social)](https://github.com/J1aM1ng)
+
+- [sduapplication.github.io](https://sdu-application.github.io/sduapplication.github.io/#/) | [sduapplication.vercel.app](https://sduapplication-github-io.vercel.app/#/)
+
+本站内容开源协同创作，期待你[贡献内容](https://sdu-application.github.io/sduapplication.github.io/#/%E5%A6%82%E4%BD%95%E8%BF%9B%E8%A1%8C%E7%BB%8F%E9%AA%8C%E5%88%86%E4%BA%AB)。如果你喜欢这个网站，请点亮 :star:Star 支持我们！
+
+欢迎加入社区讨论：
+
+- [QQ 群：727447960](https://jq.qq.com/?_wv=1027&k=cGOgvf5g)
+
 ## 公告
 
 - 请有意愿负责筹划 **2024-Fall** 飞跃手册的同学联系：hsfqing@gmail.com。
-- 支持**实名/匿名**投稿
+- 支持**实名/匿名**投稿, 投稿请参考[这里](https://sdu-application.github.io/sduapplication.github.io/#/?id=%e5%a6%82%e4%bd%95%e5%88%86%e4%ba%ab%e7%bb%8f%e9%aa%8c%ef%bc%9f)
 - 山大飞跃手册始创于2023年4月，往届分享请于左侧导航栏查找，以下为更新记录。
 - 如果您对飞跃手册有好一点的建议可以通过邮箱联系我们（联系邮箱在投稿/修改标题下），让我们一起完善飞跃手册！
 
