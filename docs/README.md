@@ -43,6 +43,7 @@
 
 ## 友情链接
 
+* Open CS Application: https://opencs.app/
 * OpenCS 申请群\[QQ群群号\]: 466094878
 * OpenCS 加拿大申请群\[QQ群群号\]: 608968969
 * 商科申请论坛 https://www.chasedream.com/
