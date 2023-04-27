@@ -218,4 +218,6 @@ l 黑名单：部分学校会有一些引人非议的操作，每年都有人中
 
 高数版
 
-![序章 函数及初等特性](./[CN]-18-anoymous/0.png)![第一章 极限与连续](./[CN]-18-anoymous/1.png)![第二章 导数与微分](./[CN]-18-anoymous/2.png)![第三章 一元微分学的应用](./[CN]-18-anoymous/3.png)![第四章 不定积分](./[CN]-18-anoymous/4.png)![第五章 定积分及应用](./[CN]-18-anoymous/5.png)![第六章 多元函数微分学](./[CN]-18-anoymous/6.png)![第七章 微分方程](./[CN]-18-anoymous/7.png)![第八章 重积分](./[CN]-18-anoymous/8.png)![第九章 级数](./[CN]-18-anoymous/9.png)![第十章 空间解析几何之向量](./[CN]-18-anoymous/10.png)![第十一章 曲线积分与曲面积分](./[CN]-18-anoymous/11.png)
+![序章 函数及初等特性](./[CN]-18-anoymous/0.png)![第一章 极限与连续](./[CN]-18-anoymous/1.png)![第二章 导数与微分](./[CN]-18-anoymous/2.png)![第三章 一元微分学的应用](./[CN]-18-anoymous/3.png)![第四章 不定积分](./[CN]-18-anoymous/4.png)![第五章 定积分及应用](./[CN]-18-anoymous/5.png)![第六章 多元函数微分学](./[CN]-18-anoymous/6.png)![第七章 微分方程](./[CN]-18-anoymous/7.png)![第八章 重积分](./[CN]-18-anoymous/8.png)![第九章 级数](./[CN]-18-anoymous/9.png)
+![第十章 空间解析几何之向量]
+![第十一章 曲线积分与曲面积分](./[CN]-18-anoymous/11.png)
