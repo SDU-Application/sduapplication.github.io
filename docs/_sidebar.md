@@ -6,6 +6,8 @@
   
   - [化学学院](grad-application/chemistry/README.md)
 
+  - [信息科学与工程学院](grad-application/information-science-and-engineering/README.md)
+
   - [地球与空间科学学院](grad-application/earth-and-space-science/README.md)
 
   - [物理学院](grad-application/physics/README.md)
