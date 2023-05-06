@@ -1,4 +1,4 @@
-name: Sync to Gitee Pages
+name: Sync and Deploy Gitee Pages
 
 on:
   push:
