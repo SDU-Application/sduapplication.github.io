@@ -19,7 +19,7 @@
 [![GitHub Repo stars](https://img.shields.io/github/stars/SDU-Application/sduapplication.github.io?style=social)](https://github.com/SDU-Application/sduapplication.github.io)
 [![GitHub followers](https://img.shields.io/github/followers/J1aM1ng?style=social)](https://github.com/J1aM1ng)
 
-### [sduapplication.github.io](https://sdu-application.github.io/sduapplication.github.io/#/) | [stuapplication.gitee.io](http://sdu-application.gitee.io/sduapplication.github.io) | [sduapplication.netlify.app](https://sduapplication.netlify.app/#/) | [sduapplication.vercel.app](sduapplication-github-io.vercel.app)
+### [sduapplication.github.io](https://sdu-application.github.io/sduapplication.github.io/#/) | [sduapplication.gitee.io](http://sdu-application.gitee.io/sduapplication.github.io) | [sduapplication.netlify.app](https://sduapplication.netlify.app/#/) | [sduapplication.vercel.app](sduapplication-github-io.vercel.app)
 
 本站内容开源协同创作，期待你[贡献内容](https://sdu-application.github.io/sduapplication.github.io/#/%E5%A6%82%E4%BD%95%E8%BF%9B%E8%A1%8C%E7%BB%8F%E9%AA%8C%E5%88%86%E4%BA%AB)。如果你喜欢这个网站，请点亮 :star:Star 支持我们！
 
